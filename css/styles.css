@@ -77,6 +77,12 @@ a:hover {
   margin: auto;
 }
 
+.hacking-img {
+  position: relative;
+  top: 20px;
+  left: 700px;
+}
+
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
@@ -98,6 +104,12 @@ a:hover {
   position: absolute;
   left: 250px;
   bottom: 300px;
+}
+
+.cs {
+  position: relative;
+  top: 0px;
+  left: 730px;
 }
 
 .code-img {
